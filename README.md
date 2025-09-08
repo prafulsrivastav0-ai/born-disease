@@ -90,7 +90,8 @@ BACKEND_URL=http://localhost:5000
 - **Alert system for health workers**
 - **Mobile-responsive dashboard**
 
-- `1.png`  
-- `2.png`  
-- `3.png`  
-- `4.png` 
+![Login Page](./ss/1.png)
+![Dashboard](./ss/2.png)
+![Water Monitoring](./ss/3.png)
+![Alerts](./ss/4.png)
+
