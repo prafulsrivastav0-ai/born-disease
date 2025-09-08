@@ -89,3 +89,8 @@ BACKEND_URL=http://localhost:5000
 - **Weather integration for risk assessment**
 - **Alert system for health workers**
 - **Mobile-responsive dashboard**
+
+- `1.png`  
+- `2.png`  
+- `3.png`  
+- `4.png` 
